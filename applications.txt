@@ -1,0 +1,96 @@
+Adobe Acrobat DC
+Adobe Creative Cloud
+Adobe Dimension CC
+Adobe Dreamweaver CC 2018
+Adobe Illustrator CC 2018
+Adobe Photoshop CC 2018
+Adobe Premiere Pro CC 2018
+Adobe XD CC
+Alfred 3.app
+Anki.app
+App Store.app
+Atom.app
+Automator.app
+Be Focused.app
+BitBar.app
+Calculator.app
+Calendar.app
+Camtasia 2018.app
+Chess.app
+ClipMenu.app
+CoRD.app
+ConnectWiseControl Client.app
+Contacts.app
+CrashPlan.app
+DVD Player.app
+Dashboard.app
+DataGrip.app
+Dictionary.app
+Dropbox.app
+FaceTime.app
+FileMaker Pro 14
+FileZilla.app
+Firefox.app
+Font Book.app
+GitHub Desktop.app
+Google Chrome.app
+Google Play Music Desktop Player.app
+Image Capture.app
+ImageOptim.app
+KeyCastr.app
+Keyboard Cleaner.app
+LICEcap.app
+Launchpad.app
+Lynxlet.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Remote Desktop.app
+Microsoft Word.app
+Mission Control.app
+Notes.app
+OneDrive.app
+PSequel.app
+Photo Booth.app
+Photos.app
+PomoDone App.app
+Postgres-legacy.app
+Postgres.app
+Preview.app
+QuickTime Player.app
+RecordIt.app
+Reminders.app
+Safari.app
+Self Service.app
+Sequel Pro.app
+Siri.app
+Skala Color Installer.app
+Sketch.app
+Skitch.app
+Slack.app
+Sourcetree.app
+Stickies.app
+Sublime Text.app
+System Preferences.app
+TablePlus.app
+TeamViewer.app
+TextEdit.app
+Time Machine.app
+TotalSpaces2.app
+Trello.app
+Utilities
+VLC.app
+VeraCrypt.app
+VirtualBox.app
+Visual Studio Code.app
+Xerox PowerENGAGE.app
+XeroxPEInstallationCompanion.app
+iBooks.app
+iTerm.app
+iTunes.app
+pgAdmin 4.app
+sbagen-1.4.5
